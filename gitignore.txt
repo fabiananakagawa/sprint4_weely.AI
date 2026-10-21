@@ -1,0 +1,24 @@
+# Credenciais — NUNCA commitar
+.env
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Banco de sessões local
+*.db
+*.db-shm
+*.db-wal
+
+# Intermediário da geração do PDF
+relatorios/*.html
+
+# Sistema
+.DS_Store
+
+# Saídas do modo --simular do pipeline (não são resultados)
+eval/resultados_simulacao/
