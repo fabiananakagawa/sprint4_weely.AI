@@ -1,0 +1,11 @@
+Integrantes do grupo — EV Challenge GoodWe (Sprint 04)
+Turma: 1CCPX
+
+Nome: André Santos de Azevedo            | RM: RM572236 |
+Nome: Bruno Menezes Monegatto            | RM: RM570311 |
+Nome: Fabiana Yumi Rodrigues Nakagawa    | RM: RM571249 |
+Nome: Iago Neiva Gorrão                  | RM: RM570234 |
+Nome: João Pedro Amorim Albuquerque      | RM: RM573342 |
+Nome: Kayky Araujo Silva                 | RM: RM569535 |
+
+repositorio: https://github.com/fabiananakagawa/sprint4_weely
