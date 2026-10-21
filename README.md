@@ -1,1 +1,0 @@
-# sprint4_weely.AI
